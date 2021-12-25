@@ -1,0 +1,36 @@
+Install Node js
+Go to command prompt and type node -v
+Go to chrome web store and install react developer tools
+Go to your desired folder and press down left shit and right click to open cmd
+type npm -v(must be above 5.0)
+npx create-react-app react-tutorial
+(Optional to update)Run npm install -g npm@8.1.3 to update!
+cd react-tutorial
+code . 
+press ctrl+shift+" to open terminal 
+type npm start(to start localhost) in terminal
+index.html is the main html file
+Remove comments in index.html
+Go to app.js and remove everything under className=App
+We do not need importlogo and import app.css
+Delte the following files
+. App.css
+. App.test.js
+. logo.svg
+. setupTests.js
+Also, you can completly wipe index.css and write your own css
+Also instal a vs code extension knows as ES7 React?Redux/GraphQL/React-Native snippets
+type rafce in vs code for boiler plate of a component
+type npm i react-icons for install react icons
+
+
+use case
+class  
+
+
+
+
+requiremeny specification
+persuing degree 
+
+
